@@ -1,6 +1,7 @@
 streamlit
+langchain
 langchain-google-genai
 python-dotenv
-pypdf # Or pypdf2 if you haven't updated your document_processor.py yet
+pypdf
 python-docx
 numpy
